@@ -38,3 +38,10 @@ The main objective of this project is to build effective cyber-attack classifica
 This project surveys the impact of adversarial machine learning on security and privacy analytics, emphasizing vulnerabilities from training data poisoning to evasion attacks on deployed models. It reviews state-of-the-art attack techniques, defense strategies, and tools used for enhancing robustness in real-world machine learning systems, including a practical case study on Facebook's spam detection pipeline. 
 
 
+## SIT718: Real-world Analytics
+### [Weighted aggregation modeling of energy use prediction in low-energy houses](./Energy%20use%20prediction%20in%20low-energy%20houses)
+This project investigates preprocessing, transformation, and aggregation modeling for energy use prediction in low-energy houses using R. The workflow covers data cleaning, statistical visualization, variable engineering (skewness correction, min-max scaling, feature selection), and the implementation of weighted aggregation models (WAM, WPM, OWA), culminating in using an OWA model for accurate energy prediction. The work utilizes the MASS library, custom aggregation functions, and methodical statistical analysis to optimize feature influence and predictive accuracy.
+
+### [Constraint programming for textile manufacturing across seasons](./Constraint%20programming%20for%20textile%20manufacturing%20across%20seasons/)
+This report applies linear programming, mathematical optimization, and game theory to solve real-world operational problems: minimizing costs in beverage composition, maximizing profit in textile manufacturing across seasons, and analyzing strategic moves in a two-person game. The work showcases problem formulation, graphical and algebraic solution methods, and the use of R for precise computation and scenario analysis. The report combines economic modeling, rigorous constraint analysis, and the derivation of both pure and mixed-strategy equilibrium solutions.
+
