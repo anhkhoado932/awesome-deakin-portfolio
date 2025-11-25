@@ -1,8 +1,14 @@
-# My Awesome Portfolio
-High Distinction projects I worked on at Deakin, and what I learned. Some software, some Data & AI, and some cloud computing.
+# My Awesome Portfolio 🎓
+Awesome projects I worked on at Deakin, and what I learned. Software, Data & AI, Cloud Computing.
+
+## SIT725: Applied Software Engineering
+### [Bartering System](./Bartering%20System/)
+This project delivers a full-stack bartering platform enabling users to trade used goods, supporting user registration, item listing, real-time chat, and transactional feedback. It implements comprehensive features—product upload, favorites, barter negotiation, admin management, and secure transactions—achieving robust usability and multi-user support. The system is developed using JavaScript, Node.js, Express, EJS, Socket.io, Docker, HTML, and CSS.
+
+
 ## SIT720: Machine Learning
 ### [Empirical Analysis for Crime Prediction and Forecasting Using Machine Learning and Deep Learning Techniques](./Empirical%20Analysis%20for%20Crime%20Prediction%20and%20Forecasting%20Using%20Machine%20Learning%20and%20Deep%20Learning%20Techniques/)
-This project implements and tunes several machine learning algorithms for crime prediction and forcastic, aiming to improve intrusion detection system accuracy. It applies extensive hyperparameter optimization via RandomizedSearchCV and GridSearchCV on KNN, Random Forest, SVM, Logistic Regression, and MLP models, achieving strong detection metrics on both datasets. 
+This project implements and tunes several machine learning algorithms for crime prediction and forcasting, aiming to improve intrusion detection system accuracy. It applies extensive hyperparameter optimization via RandomizedSearchCV and GridSearchCV on KNN, Random Forest, SVM, Logistic Regression, and MLP models, achieving strong detection metrics on both datasets. 
 
 
 ## SIT719: Data Analytics for Security
